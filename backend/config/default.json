@@ -1,0 +1,12 @@
+{
+    "mongodb": {
+        "connectionString": "mongodb+srv://roshan:roshan@cluster0.rda7mpa.mongodb.net/examportal"
+    },
+    "jwt": {
+        "secret" : "Examination Portal Application"
+    },
+    "mail-credentials" : {
+        "userid" :"<smtp server userId>",
+        "password" : "<smtp server password>"
+    }
+}
